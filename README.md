@@ -1,4 +1,4 @@
-Role Name
+Ansible role: dbs_ansible
 =========
 
 Role installs ansible.
